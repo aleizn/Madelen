@@ -87,8 +87,7 @@ let menu = `⌜ *${wm}* ⌟
 □ *Usuarios:* *${Object.keys(global.db.data.users).length}*
 □ *Registrado: ${rtotalreg} de ${totalreg}* ${(conn.user.jid == global.conn.user.jid ? '' : `\n□ *Soy un sub bot del:* wa.me/${global.conn.user.jid.split`@`[0]}`) || ''}
     
-□ *Desarrollador*
-wa.me/51992621601
+𝐊𝐔𝐌𝐀𝐍𝐃𝐑𝐈𝐓𝐎𝐒 𝐁𝐎𝐓𝐒
 
 ◉ _*INFO DEL USUARIO*_
 □ *🙌 Registrado:* ${user.registered === true ? '✅' : '❌ _#verificar_'}

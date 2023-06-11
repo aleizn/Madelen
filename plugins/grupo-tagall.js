@@ -5,11 +5,10 @@ throw false
 }
 let pesan = args.join` `
 let oi = `《 𝐌𝐞𝐧𝐬𝐚𝐣𝐞 》: ${pesan}`
-let teks = `Bot creado por Wa.me/51992621601 prohibo la venta del bot
-《😼𝐈𝐍𝐕𝐎𝐂𝐀𝐂𝐈𝐎𝐍 𝐆𝐄𝐍𝐄𝐑𝐀𝐋 》\n\n❏ ${oi}\n\n❏ 《 𝐄𝐭𝐢𝐪𝐮𝐞𝐭𝐚𝐬 》:\n`
+let teks = `《😼𝐈𝐍𝐕𝐎𝐂𝐀𝐂𝐈𝐎𝐍 𝐆𝐄𝐍𝐄𝐑𝐀𝐋 》\n\n❏ ${oi}\n\n❏ 《 𝐄𝐭𝐢𝐪𝐮𝐞𝐭𝐚𝐬 》:\n`
 for (let mem of participants) {
 teks += `✼❤️‍🔥 @${mem.id.split('@')[0]}\n`}
-teks += `➥𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃`
+teks += `➥𝐊𝐔𝐌𝐀𝐍𝐃𝐑𝐈𝐓𝐎𝐒 𝐁𝐎𝐓𝐒 🐉`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
 handler.help = ['tagall <mesaje>','invocar <mesaje>']
@@ -18,4 +17,4 @@ handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i
 handler.admin = true
 handler.group = true
 export default handler
-    
+        

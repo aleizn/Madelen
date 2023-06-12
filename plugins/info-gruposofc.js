@@ -9,7 +9,7 @@ let info = `
 Grupos del amistades donde esta el bot
 
 *꧁⁣𓆩Aᴹᴵᴳᴼˢ Cᴴᴬᵀˢ Y Aᴾᴼᴿᵀᴱ*
-https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo
+https://chat.whatsapp.com/GVQQyg98dL87nce8BVlEmv
 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
